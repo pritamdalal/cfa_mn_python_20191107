@@ -1,6 +1,6 @@
 # cfa_mn_python_20191107
 
-These are the course materials for the CFA MN Python training on November 11, 2019.
+These are the course materials for the CFA MN Python training on November 7, 2019.
 
 This repository will be updated in the coming weeks, but what is contained here will give you a good sense of the material that we will cover.
 
