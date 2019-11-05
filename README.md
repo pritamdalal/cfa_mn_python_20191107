@@ -4,7 +4,7 @@ These are the course materials for the CFA MN Python training on November 7, 201
 
 This repository will be updated in the coming weeks, but what is contained here will give you a good sense of the material that we will cover.
 
-Instructions for installing anaconda can be found in **slides/01_installation.pdf**.
+Instructions for installing anaconda can be found in **slides/01_download_installation.html**.
 
 There are a series of Jupyter Notebooks in the **tutorials** folder.  Feel free to launch those in Jupyter or JupyterLab and try working through them.  The slides also reflect the content that I will cover.
 
