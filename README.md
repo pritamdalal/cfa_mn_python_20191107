@@ -2,14 +2,14 @@
 
 These are the course materials for the CFA of Minnesota Python training on November 7, 2019.
 
+This course will cover the fundamentals of performing Pythonic data analysis in a finance context.  
+
 **Location:**<br>
 121 South 8th Street <br> Suite 200 – Marquette Room (Skyway Level) <br>
 Minneapolis, MN 55402
 
 **Time:**<br>
 8:00a-5:00p
-
-This course will cover the fundamentals of performing Pythonic data analysis in a finance context.  
 
 Please feel free to e-mail me with any question: pritam@umn.edu.
 
@@ -26,7 +26,7 @@ All of our analysis will occur in Jupyter Notebooks. I recommend that you use th
 Instructions for installing Anaconda can be found in **slides/01_download_installation.html**.
 
 ### Tutorials
-There are a series of Jupyter Notebooks in the **tutorials/** folder.  Prior to class, feel free to launch those in Jupyter or JupyterLab.  These are the tutorials we will work through in during the training.
+There are a series of Jupyter Notebooks in the **tutorials/** folder.  Prior to class, feel free to launch those in Jupyter or JupyterLab.  These are the tutorials we will work through during the training.
 
 01 - introduction to Jupyter<br>
 02 - basics of python syntax and data structures<br>
