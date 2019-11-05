@@ -6,7 +6,7 @@ This repository will be updated in the coming weeks, but what is contained here 
 
 Instructions for installing anaconda can be found in **slides/01_download_installation.html**.
 
-There are a series of Jupyter Notebooks in the **tutorials** folder.  Feel free to launch those in Jupyter or JupyterLab and try working through them.  The slides also reflect the content that I will cover.
+There are a series of Jupyter Notebooks in the **tutorials** folder.  Feel free to launch those in Jupyter or JupyterLab.  The slides also reflect the content that I will cover.
 
 Please feel free to e-mail me with any question: pritam@umn.edu.
 
